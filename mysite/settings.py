@@ -25,7 +25,7 @@ SECRET_KEY = 'jwqib7%#1aorrb3_gepjxeby^kf3frz&wc0nnck9c*l4yx38_m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'awukitch']
+ALLOWED_HOSTS = ['127.0.0.1', 'awukitch.pythonanywhere.com']
 
 
 # Application definition
